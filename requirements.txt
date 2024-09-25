@@ -1,0 +1,19 @@
+streamlit
+openai
+langchain
+chainlit
+python-dotenv
+langchain_openai
+prompts
+langchain_core
+beautifulsoup4
+langchain_community
+langchain-openai
+faiss-cpu
+
+chainlit
+transformers
+torch                # PyTorch for model loading (required by transformers)
+requests             # For Tavily API calls
+python-dotenv        # For environment variable management
+llama_index

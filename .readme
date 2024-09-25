@@ -1,0 +1,45 @@
+# OpenAI Chat Like
+
+This project contains a Python script (`openai_chat_like.py`) that simulates a chat-like interaction using OpenAI's API.
+
+## Requirements
+
+- Python 3.7+
+- OpenAI Python client library
+
+## Installation
+
+1. Clone the repository:
+    ```sh
+    git clone https://github.com/kclaudeeager/medical_copilot.git
+    cd medical_copilot
+    ```
+
+2. Install the required packages:
+    ```sh
+    pip install openai
+    ```
+
+## Usage
+
+1. Set up your OpenAI API key:
+    ```sh
+    export OPENAI_API_KEY='your-api-key'
+    ```
+
+2. Run the script:
+    ```sh
+    python openai_chat_like.py
+    ```
+
+## Configuration
+
+You can configure the script by modifying the parameters in the `openai_chat_like.py` file, such as the model, temperature, max tokens, etc.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Acknowledgements
+
+- [OpenAI](https://www.openai.com/) for providing the API.

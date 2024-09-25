@@ -1,0 +1,13 @@
+documents/*.pdf
+.streamlit/
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+.env
+.chainlit/
+.chainlit_cache/
+.chainlit_config/
+.files/
+
